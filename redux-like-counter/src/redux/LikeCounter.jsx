@@ -21,9 +21,9 @@ export default function LikeCounter() {
     };
   return (
     <div>
-     <h1>{count}</h1>
-     <button onClick={hadlelike}>Like</button>
-     <button onClick={hadleUnlike}>UnLike</button>
+     <h1>{count} --- 💕 </h1>
+     <button onClick={hadlelike}>Like ❤️</button>
+     <button onClick={hadleUnlike}>Unlike ❤️</button>
     </div>
   )
 }

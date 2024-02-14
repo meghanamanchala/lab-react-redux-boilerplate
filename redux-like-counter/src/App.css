@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+h1{
+    font-size: 100px;}
+    button{
+        color: white;
+        background-color:rgb(223, 35, 194);
+        padding: 20px;
+        font-size: 20px;
+        margin: 20px;
+        cursor: pointer;
+    }
